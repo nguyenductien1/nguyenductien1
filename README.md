@@ -2,7 +2,7 @@
 - 👀 I’m interested in web developement and data analysis
 - 🌱 I’m currently learning symfony, angular, vue.js
 - 💞️ I’m looking to collaborate on web developement
-- 📫 How to reach me ductien692@gmail.com
+- 📫 How to reach me ductien692@gmail.com / https://nguyenductien.online
 
 <!---
 nguyenductien1/nguyenductien1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
